@@ -1,6 +1,6 @@
 $(document).ready(function () {
  
-   var OAuthClientId = "64773395367 9-iu3b6iuds3tcp9qkgko18tvabbeo06fi.apps.googleusercontent.com";
+   var OAuthClientId = "647733953679-iu3b6iuds3tcp9qkgko18tvabbeo06fi.apps.googleusercontent.com";
 
   var OAuthRedirectURI = "http://localhost:8080/GoogleDrive/upload.html";
 

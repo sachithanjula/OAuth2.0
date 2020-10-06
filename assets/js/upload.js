@@ -3,7 +3,7 @@ $(document).ready(function () {
   const URLParams = new URLSearchParams(window.location.search);
   const Code = URLParams.get("code");
   const OAuthRedirectURI = "http://localhost:8080/GoogleDrive/upload.html";
-  const OAuthClientSecret = "qr7FtRATWD5vb0748W3ZIEEp";
+  const OAuthClientSecret = "JExy0HHDSu6EHBtSS8Zf-TJ7";
   const OAuthscope = "https://www.googleapis.com/auth/drive";
   var OAuthClientId = "647733953679-iu3b6iuds3tcp9qkgko18tvabbeo06fi.apps.googleusercontent.com";
 
